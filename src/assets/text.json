@@ -1,0 +1,20 @@
+{
+"Sanjay": {
+    "Name": "Sanjay",
+    "About": "Sanjay is good Angular 4 developer and quick learner. Loves Football a lot.",
+    "Experience": "I am having 2.6 year of experience in .Net MVC, Angular 4, WCF, Web API, PL/SQL",
+    "Education":"B.tech in Computer Science",
+    "Skills":[".Net MVC","AngularJS","Angular 4","WCF", "Web API", "PL/SQL"],
+    "Intrest":["Football", "FIFA"],
+    "Awards":["Best Performer", "On the spot award"]
+},
+"San": {
+    "Name": "Sanjay",
+    "About": "Sanjay is good Angular 4 developer and quick learner. Loves Football a lot.",
+    "Experience": "I am having 2.6 year of experience in .Net MVC, Angular 4, WCF, Web API, PL/SQL",
+    "Education":"B.tech in Computer Science",
+    "Skills":[".Net MVC","AngularJS","Angular 4","WCF", "Web API", "PL/SQL"],
+    "Intrest":["Football", "FIFA"],
+    "Awards":["Best Performer", "On the spot award"]
+}
+}
